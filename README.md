@@ -36,23 +36,19 @@
 
 #### Web-Development
 - JavaScript, HTML, CSS, SASS (SCSS), Bootstrap, JQuery
-
 - PHP, MySQL
-
 - Svelte
 - Onsen UI
 - Vue.js
-
 - Node.js, ElectronJS, Cordova
 
 #### Desktop, AI, Robotics & Automation
 
 - Java
 - Python
-
 - Arduino
 - MicroBit
 - Splunk
 - Tines Automation
 
-Plus more! :D
+*Plus more! :D*
