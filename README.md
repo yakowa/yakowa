@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/badge/WEBSITE-jacobem.com-blueviolet?style=for-the-badge)](https://jacobem.com)
 [![Website](https://img.shields.io/badge/CONTACT--ME-jacobem.com/contact-395ef5?style=for-the-badge)](https://jacobem.com/contact)
 
-## I'm Developer • Graphic Designer • Drone Operator • Photographer!
+## I'm a Developer • Graphic Designer • Drone Operator • Photographer!
 
 - 💻 Currently working on my website!
 - 📚 I’m currently learning Svelte
