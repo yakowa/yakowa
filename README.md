@@ -18,10 +18,6 @@
 
 ### Contact Me:
 
-[<img align="left" alt="JacobEM.com/about" width="22px" src="https://jacobem.com/assets/media/JacobEM (Small).png" />](https://jacobem.com)
-[<img align="left" alt="JacobEM_Dev | Twitter" width="26px" src="https://jacobem.com/assets/media/socialMedia/twitter.png" />](https://twitter.com/JacobEM_Dev)
-[<img align="left" alt="JacobEM_Dev | Instagram" width="22px" src="https://jacobem.com/assets/media/socialMedia/instagram.png" />](instagram.com/JacobEM_Dev)
-
-### Stats:
-
-![Yakowa's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yakowa&theme=cobalt)
+[<img align="left" alt="JacobEM.com" width="22px" src="https://jacobem.com/assets/media/JacobEM (Small).png" />](https://jacobem.com)
+[<img align="left" alt="@JLEganMorley | Twitter" width="26px" src="https://jacobem.com/assets/media/socialMedia/twitter.png" />](https://twitter.com/JLEganMorley)
+[<img align="left" alt="@JLEganMorley | Instagram" width="22px" src="https://jacobem.com/assets/media/socialMedia/instagram.png" />](instagram.com/JLEganMorley)
