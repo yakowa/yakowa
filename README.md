@@ -11,14 +11,17 @@
 
 ## I'm a Developer • Graphic Designer • Drone Operator • Photographer!
 
-- 💻 Currently working on my website!
-- 📚 I’m currently learning Svelte
-- 🍹 I’m looking to collaborate with others on coding projects 😊:
-- 🥅 Goals: Start working on new projects!
-- ⚡ Fun fact: I love art and RC-everything ✈!
+- 😄 Pronouns: they/she/he
+- 📚 I’m currently learning Tailwind.css
+- ⚡ Fun fact: I love egg mayo!
+- 🍹 I’m always happy to collaborate with others on projects 😊:
 
 ### Contact Me:
 
 [<img align="left" alt="JacobEM.com/about" width="22px" src="https://jacobem.com/assets/media/JacobEM (Small).png" />](https://jacobem.com)
 [<img align="left" alt="JacobEM_Dev | Twitter" width="26px" src="https://jacobem.com/assets/media/socialMedia/twitter.png" />](https://twitter.com/JacobEM_Dev)
 [<img align="left" alt="JacobEM_Dev | Instagram" width="22px" src="https://jacobem.com/assets/media/socialMedia/instagram.png" />](instagram.com/JacobEM_Dev)
+
+### Stats:
+
+![Yakowa's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yakowa&theme=cobalt)
