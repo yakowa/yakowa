@@ -22,33 +22,3 @@
 [<img align="left" alt="JacobEM.com/about" width="22px" src="https://jacobem.com/assets/media/JacobEM (Small).png" />](https://jacobem.com)
 [<img align="left" alt="JacobEM_Dev | Twitter" width="26px" src="https://jacobem.com/assets/media/socialMedia/twitter.png" />](https://twitter.com/JacobEM_Dev)
 [<img align="left" alt="JacobEM_Dev | Instagram" width="22px" src="https://jacobem.com/assets/media/socialMedia/instagram.png" />](instagram.com/JacobEM_Dev)
-
-<br>
-
-### Languages, Environments & Tools:
-
-- VSCode
-- Visual Studio
-- Git
-- .NET
-- XNA
-- IntelliJ IDEA
-
-#### Web-Development
-- JavaScript, HTML, CSS, SASS (SCSS), Bootstrap, JQuery
-- PHP, MySQL
-- Svelte
-- Onsen UI
-- Vue.js
-- Node.js, ElectronJS, Cordova
-
-#### Desktop, AI, Robotics & Automation
-
-- Java
-- Python
-- Arduino
-- MicroBit
-- Splunk
-- Tines Automation
-
-*Plus more! :D*
