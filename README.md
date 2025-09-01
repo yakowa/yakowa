@@ -13,4 +13,5 @@
 
 - 📚 I'm currently learning how to work with geospatial data!
 - 🍹 I'm always happy to collaborate with others on projects 😊
-- ✨ Feel free to get in touch with me!
+
+- ✨ Feel free to get in [touch with me](https://www.linkedin.com/in/yakowahhh)!
